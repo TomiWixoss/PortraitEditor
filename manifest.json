@@ -1,0 +1,16 @@
+{
+  "Name": "Portrait Editor for Mobile",
+  "Author": "YourName",
+  "Version": "1.0.0",
+  "Description": "In-game editor for adjusting portrait and dialogue box positions/sizes on mobile. Works with Dialogue Display Framework.",
+  "UniqueID": "YourName.PortraitEditor",
+  "EntryDll": "PortraitEditor.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [],
+  "Dependencies": [
+    {
+      "UniqueID": "Mangupix.DialogueDisplayFrameworkContinued",
+      "IsRequired": false
+    }
+  ]
+}

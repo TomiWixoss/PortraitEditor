@@ -1,0 +1,15 @@
+{
+  "edit-button.tooltip": "Chỉnh sửa Portrait & Hội thoại",
+  "edit-mode.title": "Chỉnh sửa Portrait",
+  "edit-mode.save": "Lưu",
+  "edit-mode.reset": "Đặt lại",
+  "edit-mode.close": "Đóng",
+  "property.portrait-scale": "Kích thước Portrait",
+  "property.portrait-x": "Vị trí X Portrait",
+  "property.portrait-y": "Vị trí Y Portrait",
+  "property.dialogue-width": "Độ rộng hội thoại",
+  "property.dialogue-height": "Độ cao hội thoại",
+  "message.saved": "Đã lưu cài đặt cho {0}",
+  "message.reset": "Đã đặt lại cài đặt cho {0}",
+  "instructions": "Phím mũi tên: Di chuyển | +/-: Phóng to/nhỏ | S: Lưu | R: Đặt lại | ESC: Thoát"
+}

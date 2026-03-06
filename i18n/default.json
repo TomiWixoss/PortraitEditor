@@ -1,0 +1,15 @@
+{
+  "edit-button.tooltip": "Edit Portrait & Dialogue",
+  "edit-mode.title": "Portrait Editor",
+  "edit-mode.save": "Save",
+  "edit-mode.reset": "Reset",
+  "edit-mode.close": "Close",
+  "property.portrait-scale": "Portrait Scale",
+  "property.portrait-x": "Portrait X Position",
+  "property.portrait-y": "Portrait Y Position",
+  "property.dialogue-width": "Dialogue Width",
+  "property.dialogue-height": "Dialogue Height",
+  "message.saved": "Settings saved for {0}",
+  "message.reset": "Settings reset for {0}",
+  "instructions": "Arrow keys: Move portrait | +/-: Scale | S: Save | R: Reset | ESC: Exit"
+}
